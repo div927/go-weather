@@ -38,6 +38,4 @@ Its a simple weather tracker written in Golang.
 ## Screenshots
 
 
-<img width="362" alt="Screenshot 2022-04-27 at 8 51 05 AM" src="https://user-images.githubusercontent.com/13753196/165433591-05ec1606-9344-4612-8772-1fc726e615b1.png">
-
-    
+<img width="1440" alt="Screenshot 2022-04-27 at 8 55 56 AM" src="https://user-images.githubusercontent.com/13753196/165433863-d6c66d7c-9479-4f99-a556-c94faf2d1c70.png">
